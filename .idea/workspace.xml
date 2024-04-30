@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3969ead6-a5d9-4bcd-af47-c506175a0c5d" name="Changes" comment="complete the student practice">
-      <change afterPath="$PROJECT_DIR$/download.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3969ead6-a5d9-4bcd-af47-c506175a0c5d" name="Changes" comment="shows stattion table and id">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentPractice/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentPractice/student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
@@ -164,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714491834162</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="shows stattion table and id">
+      <option name="closed" value="true" />
+      <created>1714499254885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714499254885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +178,7 @@
     <MESSAGE value="Adding  Readme file" />
     <MESSAGE value="Adding  data and using that data ." />
     <MESSAGE value="complete the student practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete the student practice" />
+    <MESSAGE value="shows stattion table and id" />
+    <option name="LAST_COMMIT_MESSAGE" value="shows stattion table and id" />
   </component>
 </project>
